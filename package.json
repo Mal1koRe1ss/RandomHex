@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "sass": "^1.80.6"
+  },
+  "name": "rhex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch sass/:css/"
+  },
+  "author": "Mal1koRe1ss",
+  "license": "ISC",
+  "description": ""
+}
